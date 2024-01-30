@@ -1,0 +1,6 @@
+ Write a Java recursive method to find the greatest common divisor (GCD) of two numbers.
+ input:
+ num1:12,num2:18
+ output:
+ Greater common factor value: 6
+ 

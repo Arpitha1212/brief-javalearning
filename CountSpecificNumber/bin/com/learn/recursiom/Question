@@ -1,0 +1,5 @@
+Write a Java recursive method to count the number of occurrences of a specific element in an array.
+Input:
+num:1561145
+Output:
+1 Repeated in the given number: 3

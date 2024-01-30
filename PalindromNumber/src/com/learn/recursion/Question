@@ -1,0 +1,5 @@
+Write a Java recursive method to check if a given string is a palindrome.
+input:
+num=12321
+output:
+The given Number is palindrome: true

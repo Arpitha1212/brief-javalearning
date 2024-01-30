@@ -1,0 +1,6 @@
+Write a Java recursive method to calculate the exponentiation of a number (base) raised to a power (exponent).
+input:
+base=3.4
+expo=4
+Output:
+Exponentail value: 150.0625
