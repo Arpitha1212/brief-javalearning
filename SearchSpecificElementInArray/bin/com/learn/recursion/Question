@@ -1,0 +1,5 @@
+Write a Java recursive method to count the number of occurrences of a specific element in an array and return there index's.
+Input:
+arr= {5,9,7,6,3};
+target:6
+Element present in the index: 3

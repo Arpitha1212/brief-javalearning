@@ -1,0 +1,6 @@
+ Write a Java recursive method to find the maximum element in an array.
+ Input:
+  a[] = {34, 45, 34, 23, 56, 62, 27, 55};
+  Output:
+  Maximum value: 62
+  
