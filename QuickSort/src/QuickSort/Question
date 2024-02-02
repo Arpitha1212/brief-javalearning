@@ -1,0 +1,5 @@
+Write a Java recursive method to do Quick sort in ascending order.
+Input:
+int[]arr= {5,4,3,2,1};
+Output:
+Sorted Array: [1, 2, 3, 4, 5]
