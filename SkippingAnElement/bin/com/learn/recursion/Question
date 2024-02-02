@@ -1,0 +1,5 @@
+Write a Java recursive method to skip the letter in the given string.
+Input:
+up="bacchapi";ch='a'to be removed
+Output:
+bcchpi
