@@ -1,0 +1,12 @@
+Write a Java recursive method to make the subsequence of the given string.
+input:
+String str="abc";
+Output:
+abc
+ab
+ac
+a
+bc
+b
+c
+-------------------------------------------------------------------------------------------------
