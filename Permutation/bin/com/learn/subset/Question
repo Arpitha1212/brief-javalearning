@@ -1,0 +1,10 @@
+Write a Java recursive method to calculate the permutation of a given string.
+Input:
+String str="abc";
+Output:
+cba
+bca
+bac
+cab
+acb
+abc
