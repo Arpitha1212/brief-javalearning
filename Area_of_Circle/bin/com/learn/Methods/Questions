@@ -1,0 +1,7 @@
+Write a java program to calculate the area of the circle.
+Input:
+Radius:5;
+Output:
+Enter the radius of the Circle
+5
+Area of the circle is 78.539816
