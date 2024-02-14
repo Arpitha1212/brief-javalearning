@@ -1,5 +1,0 @@
-Write a Java recursive method to calculate the product of all numbers in an array.
-Input:
-int[] array = {1,3,5,7};
-Output:
-Product of array: 105
