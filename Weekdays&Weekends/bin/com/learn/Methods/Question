@@ -1,0 +1,2 @@
+Write a java program to print the given input number from 1-7 is weekday or a weekend.
+from 1-4 print (weekday) & 5-7 print (weekend).
