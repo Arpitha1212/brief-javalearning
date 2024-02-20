@@ -1,0 +1,5 @@
+Write a java program to print the amstrodum numbers between 100 - 1000  and the entered number is amstrodum or not.
+
+Enter the number to check amstrodum: 190
+false
+153 370 371 407 
